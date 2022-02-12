@@ -1,0 +1,18 @@
+﻿.hlogo
+{
+    width:80%!important;
+    height:auto;
+    margin-top: 15px;
+}
+.table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    color:#fff;
+}
+
+td, th {
+    border: 1px solid #d2bd7f;
+    text-align: left;
+    padding: 8px;
+}
